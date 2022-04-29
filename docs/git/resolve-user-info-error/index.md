@@ -11,3 +11,7 @@ git config --global user.name "ユーザー名"
 ```bash
 git config --global user.email メールアドレス
 ```
+
+## Screenshots
+
+![Image](https://github.com/DainasiKamen/memo/blob/main/docs/git/resolve-user-info-error/1.png)
